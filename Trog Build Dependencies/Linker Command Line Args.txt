@@ -1,0 +1,1 @@
+opengl32.lib glu32.lib  openal32.lib alut.lib ogg_static_d.lib vorbis_static_d.lib vorbisfile_static_d.lib vorbisenc_static_d.lib dinput8.lib XInput.lib dxguid.lib glew32.lib 
